@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2023-03-03T11:19:08" hostname="MacBook-Air-Nikos.local" time="0.889">
+  <properties/>
+  <testcase name="start" classname="CalculatorTest" time="0.889">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
